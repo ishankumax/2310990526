@@ -79,3 +79,144 @@
 [2026-05-05T05:14:56.489Z] [INFO] GET /api/notifications 200 - 1ms
 [2026-05-05T05:15:00.020Z] [INFO] Fetching notifications
 [2026-05-05T05:15:00.021Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:15:26.476Z] [INFO] Fetching notifications
+[2026-05-05T05:15:26.478Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:15:56.489Z] [INFO] Fetching notifications
+[2026-05-05T05:15:56.491Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:16:00.019Z] [INFO] Fetching notifications
+[2026-05-05T05:16:00.020Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:16:26.486Z] [INFO] Fetching notifications
+[2026-05-05T05:16:26.488Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:16:56.482Z] [INFO] Fetching notifications
+[2026-05-05T05:16:56.484Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:17:00.033Z] [INFO] Fetching notifications
+[2026-05-05T05:17:00.034Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:17:26.475Z] [INFO] Fetching notifications
+[2026-05-05T05:17:26.477Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:17:32.021Z] [INFO] Fetching notifications
+[2026-05-05T05:17:32.023Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:17:56.483Z] [INFO] Fetching notifications
+[2026-05-05T05:17:56.484Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:18:02.013Z] [INFO] Fetching notifications
+[2026-05-05T05:18:02.015Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:18:26.496Z] [INFO] Fetching notifications
+[2026-05-05T05:18:26.498Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:18:31.737Z] [INFO] GET /pfp.jpg 404 - 4ms
+[2026-05-05T05:18:32.025Z] [INFO] Fetching notifications
+[2026-05-05T05:18:32.027Z] [INFO] GET /api/notifications 200 - 3ms
+[2026-05-05T05:18:40.333Z] [INFO] GET / 404 - 1ms
+[2026-05-05T05:18:56.473Z] [INFO] Fetching notifications
+[2026-05-05T05:18:56.475Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:19:26.478Z] [INFO] Fetching notifications
+[2026-05-05T05:19:26.480Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:19:56.486Z] [INFO] Fetching notifications
+[2026-05-05T05:19:56.488Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:20:00.151Z] [INFO] Fetching notifications
+[2026-05-05T05:20:00.152Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:20:26.523Z] [INFO] Fetching notifications
+[2026-05-05T05:20:26.530Z] [INFO] GET /api/notifications 200 - 7ms
+[2026-05-05T05:20:47.137Z] [INFO] Fetching notifications
+[2026-05-05T05:20:47.139Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:20:49.769Z] [INFO] Fetching notifications
+[2026-05-05T05:20:49.772Z] [INFO] GET /api/notifications 200 - 3ms
+[2026-05-05T05:20:49.780Z] [INFO] Fetching notifications
+[2026-05-05T05:20:49.784Z] [INFO] GET /api/notifications 200 - 4ms
+[2026-05-05T05:20:56.486Z] [INFO] Fetching notifications
+[2026-05-05T05:20:56.492Z] [INFO] GET /api/notifications 200 - 6ms
+[2026-05-05T05:21:20.112Z] [INFO] Fetching notifications
+[2026-05-05T05:21:20.114Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:21:26.504Z] [INFO] Fetching notifications
+[2026-05-05T05:21:26.507Z] [INFO] GET /api/notifications 200 - 3ms
+[2026-05-05T05:21:50.069Z] [INFO] Fetching notifications
+[2026-05-05T05:21:50.071Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:21:56.494Z] [INFO] Fetching notifications
+[2026-05-05T05:21:56.496Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:22:20.026Z] [INFO] Fetching notifications
+[2026-05-05T05:22:20.029Z] [INFO] GET /api/notifications 200 - 3ms
+[2026-05-05T05:22:26.548Z] [INFO] Fetching notifications
+[2026-05-05T05:22:26.556Z] [INFO] GET /api/notifications 200 - 8ms
+[2026-05-05T05:22:50.076Z] [INFO] Fetching notifications
+[2026-05-05T05:22:50.078Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:22:56.486Z] [INFO] Fetching notifications
+[2026-05-05T05:22:56.487Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:23:23.890Z] [INFO] Fetching notifications
+[2026-05-05T05:23:23.891Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:23:26.719Z] [INFO] Fetching notifications
+[2026-05-05T05:23:26.721Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:23:39.171Z] [INFO] Fetching notifications
+[2026-05-05T05:23:39.173Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:23:39.196Z] [INFO] Fetching notifications
+[2026-05-05T05:23:39.200Z] [INFO] GET /api/notifications 200 - 4ms
+[2026-05-05T05:23:52.053Z] [INFO] Fetching notifications
+[2026-05-05T05:23:52.054Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:24:15.517Z] [INFO] Fetching notifications
+[2026-05-05T05:24:15.519Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:24:39.200Z] [INFO] Fetching notifications
+[2026-05-05T05:24:39.202Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:25:00.182Z] [INFO] Fetching notifications
+[2026-05-05T05:25:00.184Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:25:09.187Z] [INFO] Fetching notifications
+[2026-05-05T05:25:09.188Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:25:12.878Z] [INFO] Fetching notifications
+[2026-05-05T05:25:12.880Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:25:12.884Z] [INFO] Fetching notifications
+[2026-05-05T05:25:12.885Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:25:43.098Z] [INFO] Fetching notifications
+[2026-05-05T05:25:43.100Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:26:00.235Z] [INFO] Fetching notifications
+[2026-05-05T05:26:00.237Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:26:12.903Z] [INFO] Fetching notifications
+[2026-05-05T05:26:12.904Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:26:42.895Z] [INFO] Fetching notifications
+[2026-05-05T05:26:42.896Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:27:00.059Z] [INFO] Fetching notifications
+[2026-05-05T05:27:00.061Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:27:12.900Z] [INFO] Fetching notifications
+[2026-05-05T05:27:12.903Z] [INFO] GET /api/notifications 200 - 3ms
+[2026-05-05T05:27:42.887Z] [INFO] Fetching notifications
+[2026-05-05T05:27:42.889Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:27:55.983Z] [INFO] GET / 404 - 12ms
+[2026-05-05T05:28:00.029Z] [INFO] Fetching notifications
+[2026-05-05T05:28:00.031Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:29:00.064Z] [INFO] Fetching notifications
+[2026-05-05T05:29:00.066Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:30:00.039Z] [INFO] Fetching notifications
+[2026-05-05T05:30:00.041Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:30:04.644Z] [INFO] GET / 404 - 1ms
+[2026-05-05T05:30:05.197Z] [INFO] GET /admin/ 404 - 1ms
+[2026-05-05T05:30:23.584Z] [INFO] GET /admin/ 404 - 1ms
+[2026-05-05T05:30:38.422Z] [INFO] GET / 404 - 4ms
+[2026-05-05T05:31:00.018Z] [INFO] Fetching notifications
+[2026-05-05T05:31:00.019Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:31:29.031Z] [INFO] Server successfully started on port 3000
+[2026-05-05T05:31:44.600Z] [INFO] Fetching notifications
+[2026-05-05T05:31:44.617Z] [INFO] GET /api/notifications 200 - 18ms
+[2026-05-05T05:31:44.622Z] [INFO] Fetching notifications
+[2026-05-05T05:31:44.630Z] [INFO] GET /api/notifications 200 - 8ms
+[2026-05-05T05:32:00.793Z] [INFO] Fetching notifications
+[2026-05-05T05:32:00.796Z] [INFO] GET /api/notifications 200 - 3ms
+[2026-05-05T05:32:05.012Z] [INFO] Fetching notifications
+[2026-05-05T05:32:05.022Z] [INFO] GET /api/notifications 200 - 10ms
+[2026-05-05T05:32:05.027Z] [INFO] Fetching notifications
+[2026-05-05T05:32:05.029Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:32:10.546Z] [INFO] Fetching notifications
+[2026-05-05T05:32:10.574Z] [INFO] GET /api/notifications 200 - 28ms
+[2026-05-05T05:32:14.622Z] [INFO] GET /admin/ 404 - 5ms
+[2026-05-05T05:32:35.067Z] [INFO] Fetching notifications
+[2026-05-05T05:32:35.074Z] [INFO] GET /api/notifications 200 - 7ms
+[2026-05-05T05:32:40.006Z] [INFO] Fetching notifications
+[2026-05-05T05:32:40.009Z] [INFO] GET /api/notifications 200 - 3ms
+[2026-05-05T05:33:00.219Z] [INFO] Fetching notifications
+[2026-05-05T05:33:00.221Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:33:05.147Z] [INFO] Fetching notifications
+[2026-05-05T05:33:05.155Z] [INFO] GET /api/notifications 200 - 8ms
+[2026-05-05T05:33:16.924Z] [INFO] Fetching notifications
+[2026-05-05T05:33:16.926Z] [INFO] GET /api/notifications 200 - 3ms
+[2026-05-05T05:33:35.053Z] [INFO] Fetching notifications
+[2026-05-05T05:33:35.063Z] [INFO] GET /api/notifications 200 - 10ms
+[2026-05-05T05:34:00.172Z] [INFO] Fetching notifications
+[2026-05-05T05:34:00.175Z] [INFO] GET /api/notifications 200 - 3ms
+[2026-05-05T05:34:05.028Z] [INFO] Fetching notifications
+[2026-05-05T05:34:05.030Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:34:35.237Z] [INFO] Fetching notifications
+[2026-05-05T05:34:35.239Z] [INFO] GET /api/notifications 200 - 2ms

@@ -14,7 +14,7 @@ const Dashboard = () => {
     const fetchNotifications = async () => {
         setRefreshing(true);
         try {
-            const response = await axios.get('http://localhost:5000/api/notifications');
+            const response = await axios.get('http://localhost:3000/api/notifications');
             setNotifications(response.data);
         } catch (error) {
             console.error("Failed to fetch", error);
