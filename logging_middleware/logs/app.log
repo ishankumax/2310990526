@@ -21,3 +21,9 @@
 [2026-05-05T05:06:25.256Z] [INFO] GET /api/notifications 200 - 2ms
 [2026-05-05T05:06:32.023Z] [INFO] Fetching notifications
 [2026-05-05T05:06:32.025Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:06:55.249Z] [INFO] Fetching notifications
+[2026-05-05T05:06:55.250Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:07:02.012Z] [INFO] Fetching notifications
+[2026-05-05T05:07:02.014Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:07:25.250Z] [INFO] Fetching notifications
+[2026-05-05T05:07:25.251Z] [INFO] GET /api/notifications 200 - 1ms
