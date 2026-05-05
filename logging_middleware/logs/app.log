@@ -59,3 +59,23 @@
 [2026-05-05T05:12:00.029Z] [INFO] GET /api/notifications 200 - 2ms
 [2026-05-05T05:12:25.240Z] [INFO] Fetching notifications
 [2026-05-05T05:12:25.241Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:12:55.262Z] [INFO] Fetching notifications
+[2026-05-05T05:12:55.264Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:13:00.020Z] [INFO] Fetching notifications
+[2026-05-05T05:13:00.023Z] [INFO] GET /api/notifications 200 - 3ms
+[2026-05-05T05:13:25.252Z] [INFO] Fetching notifications
+[2026-05-05T05:13:25.254Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:13:26.476Z] [INFO] Fetching notifications
+[2026-05-05T05:13:26.478Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:13:26.481Z] [INFO] Fetching notifications
+[2026-05-05T05:13:26.483Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:13:56.475Z] [INFO] Fetching notifications
+[2026-05-05T05:13:56.476Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:14:00.031Z] [INFO] Fetching notifications
+[2026-05-05T05:14:00.032Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:14:26.487Z] [INFO] Fetching notifications
+[2026-05-05T05:14:26.488Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:14:56.488Z] [INFO] Fetching notifications
+[2026-05-05T05:14:56.489Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:15:00.020Z] [INFO] Fetching notifications
+[2026-05-05T05:15:00.021Z] [INFO] GET /api/notifications 200 - 1ms
