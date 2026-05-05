@@ -27,3 +27,15 @@
 [2026-05-05T05:07:02.014Z] [INFO] GET /api/notifications 200 - 2ms
 [2026-05-05T05:07:25.250Z] [INFO] Fetching notifications
 [2026-05-05T05:07:25.251Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:07:32.023Z] [INFO] Fetching notifications
+[2026-05-05T05:07:32.024Z] [INFO] GET /api/notifications 200 - 1ms
+[2026-05-05T05:07:55.250Z] [INFO] Fetching notifications
+[2026-05-05T05:07:55.252Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:08:02.014Z] [INFO] Fetching notifications
+[2026-05-05T05:08:02.016Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:08:25.248Z] [INFO] Fetching notifications
+[2026-05-05T05:08:25.250Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:08:55.243Z] [INFO] Fetching notifications
+[2026-05-05T05:08:55.244Z] [INFO] GET /api/notifications 200 - 2ms
+[2026-05-05T05:09:00.033Z] [INFO] Fetching notifications
+[2026-05-05T05:09:00.035Z] [INFO] GET /api/notifications 200 - 2ms
